@@ -1,0 +1,14 @@
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.exe.config
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.exe
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.pdb
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.csproj.AssemblyReference.cache
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.csproj.CoreCompileInputs.cache
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.exe
+C:\Users\a9260\OneDrive\Рабочий стол\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.pdb
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.exe.config
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.exe
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\bin\Debug\laba_1_2_2.pdb
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.csproj.AssemblyReference.cache
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.csproj.CoreCompileInputs.cache
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.exe
+C:\Users\a9260\Desktop\ООП лабы\ЛАБА 1\laba_1_2_2\laba_1_2_2\obj\Debug\laba_1_2_2.pdb
